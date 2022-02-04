@@ -13,4 +13,4 @@
 
 
 <!-- 仓库统计信息-->
-![](https://github-readme-stats.vercel.app/api?username=zhovy)
+![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=dark)
