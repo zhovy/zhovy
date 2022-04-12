@@ -9,7 +9,7 @@
 <br/>- ⚡ Fun fact: 打游戏 动漫 晒太阳 睡大觉 
 <br/>
 <!-- 仓库统计信息-->
-![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=FE0000,FFAFAF,F6FD9F&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=DA3CE8,78FFEE,B3DFE8&show_icons=true)
 
 <!--  语言排行-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy)
