@@ -12,4 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient)
 
 <!--  语言排行-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForteScarlet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy)
