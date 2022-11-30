@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=7A3CE8,78FFEE,73DFE8&show_icons=true)
 
 <!--  语言排行-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy) -->
 
 <!--  GitHub资料奖杯🏆-->
 <!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zhovy" /> </div> -->
