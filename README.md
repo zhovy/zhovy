@@ -1,10 +1,7 @@
 ### Hi there  
 <!-- 简介-->
-<br/>-   I’m currently working on Coder
-<br/>-   I’m currently learning java C# C++ Unity python
-<br/>-   I’m looking to collaborate on byself
-<br/>-   I’m looking for help with take money
-<br/>-   Ask me about 98年生
+
+<br/>-   learning java C# C++ Unity python
 <br/>-   How to reach me: Email:2285685300@qq.com
 <br/>- ⚡ Fun fact: play gaming|travel|sleeping|cycling|eat cookie 
 <br/>
