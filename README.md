@@ -1,4 +1,4 @@
-### Hi there  
+### 👋 Hi there  
 <!-- 简介-->
 
 <br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等各种语言编写“Hello,World”
@@ -35,13 +35,11 @@
   </a></p>
 </div>
 <!--  GitHub活动统计图-->
-<div align="center"> 
+<!-- <div align="center"> 
  <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> 
+</div> -->
 
-
-</div>
-
-
-
+<!--  snk -->
+![Snake animation](https://github.com/zhovy/zhovy/blob/output/github-contribution-grid-snake.svg)
 
 
