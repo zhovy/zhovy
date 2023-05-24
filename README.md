@@ -1,7 +1,7 @@
 ### Hi there  
 <!-- 简介-->
 
-<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等各种语言编写“Hello,WOrld”
+<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等各种语言编写“Hello,World”
 <br/>-  常年混迹于各大开发技术交流群（摸鱼）
 <br/>-  现就职于济南外包科技有限公司
 <!--  GitHub访客徽章-->
