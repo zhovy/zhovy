@@ -1,28 +1,50 @@
 ### Hi there  
 <!-- 简介-->
 
-<br/>-   learning java C# C++ Unity python
-<br/>-   How to reach me: Email:2285685300@qq.com
-<br/>- ⚡ Fun fact: play gaming|travel|sleeping|cycling|eat cookie 
-<br/>
+<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等各种语言编写“Hello,WOrld”
+<br/>-  常年混迹于各大开发技术交流群（摸鱼）
+<br/>-  现就职于济南外包科技有限公司
 <!--  GitHub访客徽章-->
 <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhovy" /> </div> -->
 
+
+
+<div align="center">
 <!-- 仓库统计信息-->
-![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=7A3CE8,78FFEE,73DFE8&show_icons=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=7A3CE8,78FFEE,73DFE8&show_icons=true" alt="✨ zhovy's stars ✨" height="135em"  />
 
 <!--  语言排行-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy)
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn"
+  media="(prefers-color-scheme: dark)"
+/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ zhovy's stars ✨" height="135em"  />
+
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&hide_border=true&locale=cn"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+</div>
 
 <!--  GitHub资料奖杯🏆-->
-<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zhovy" /> </div>
+<div align="center"> 
+ <p align="center"><a href="https://github.com/zhovy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=zhovy&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a></p>
+</div>
 <!--  GitHub活动统计图-->
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> </div>
+<div align="center"> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg">
   <img align="center" src="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg" alt="Snk" />
 </picture>
+
+</div>
+
 
 
 
