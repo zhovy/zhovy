@@ -37,11 +37,7 @@
 <!--  GitHub活动统计图-->
 <div align="center"> 
  <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg">
-  <img align="center" src="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg" alt="Snk" />
-</picture>
+
 
 </div>
 
