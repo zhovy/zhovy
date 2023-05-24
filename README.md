@@ -12,13 +12,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=zhovy&theme=Gradient&bg_color=7A3CE8,78FFEE,73DFE8&show_icons=true)
 
 <!--  语言排行-->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhovy)
 
 <!--  GitHub资料奖杯🏆-->
-<!-- <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zhovy" /> </div> -->
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zhovy" /> </div>
 <!--  GitHub活动统计图-->
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> </div> -->
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zhovy&theme=xcode" /> </div>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg">
+  <img align="center" src="https://raw.githubusercontent.com/zhovy/zhovy/output/snk/github-snake.svg" alt="Snk" />
+</picture>
 
 
 
