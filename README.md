@@ -1,9 +1,11 @@
 ### 👋 Hi there  
 <!-- 简介-->
+<br/>-  山东大汉一枚
+<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等语言输出“Hello,World”
+<br/>-  常年混迹于各大开发技术交流群 时常感叹群内各种bug的和非常奇怪的解决方法
+<br/>-  现就职于济南外包科技有限公司 深受资本家爱戴 
+<br/>-  对Spring生态不通一窍 源码不看一点 
 
-<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等各种语言编写“Hello,World”
-<br/>-  常年混迹于各大开发技术交流群（摸鱼）
-<br/>-  现就职于济南外包科技有限公司
 <!--  GitHub访客徽章-->
 <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhovy" /> </div> -->
 
