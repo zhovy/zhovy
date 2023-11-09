@@ -1,10 +1,10 @@
 ### 👋 Hi there  
 <!-- 简介-->
-<br/>-  山东大汉一枚
-<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等语言输出“Hello,World”
-<br/>-  常年混迹于各大开发技术交流群 时常感叹群内各种bug的和非常奇怪的解决方法
-<br/>-  熟练掌握各种bug的书写姿势 深受测试人员爱戴 
-<br/>-  对Spring生态不通一窍 Java源码不看一点 go协程糊涂一塌 
+<br/>-  我是一只小菜鸡，咿呀咿呀哟🐣
+<br/>-  精通Java,C++,C#,Python,Go,Sql,Vue,Jquery等语言输出“Hello,World”🐮
+<br/>-  常年混迹于各大开发技术交流群 时常感叹群内各种bug的和非常奇怪的解决方法🐯
+<br/>-  熟练掌握各种bug的书写姿势 深受测试人员爱戴🎰
+<br/>-  对Spring生态不通一窍 Java源码不看一点 go协程糊涂一塌 🎮
 
 <!--  GitHub访客徽章-->
 <!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhovy" /> </div> -->
