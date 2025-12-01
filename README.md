@@ -17,7 +17,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn"
   media="(prefers-color-scheme: dark)"
 />
- <img text-align="center" src="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ zhovy's stars ✨" height="135em"  />
+ <!-- <img text-align="center" src="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ zhovy's stars ✨" height="135em"  /> -->
 
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=zhovy&show_icons=true&hide_border=true&locale=cn"
